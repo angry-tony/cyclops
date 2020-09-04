@@ -123,7 +123,7 @@
     "karma-webpack": "2.0.3",
     "livereload": "0.6.2",
     "mocha": "3.1.2",
-    "node-sass": "3.10.0",
+    "node-sass": "4.13.1",
     "phantomjs-prebuilt": "2.1.14",
     "react-addons-test-utils": "15.3.2",
     "remap-istanbul": "0.9.5",
